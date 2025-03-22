@@ -6,7 +6,7 @@ Sou um entusiasta da tecnologia em fase de aprendizado para me tornar um desenvo
 
 ## 📊 Minhas Estatísticas no GitHub
 
-- **Commits no Ano Atual**: ![Commits](https://img.shields.io/badge/Commits-0-blue) *(automatizado)*
+- **Commits no Ano Atual**: ![Commits](https://img.shields.io/badge/Commits-9-blue) *(automatizado)*
 - **Repositórios Públicos**: ![Repos](https://img.shields.io/badge/Repos-5-green)
 - **Linguagens Favoritas**: JavaScript, Python, HTML/CSS
 
@@ -17,8 +17,8 @@ Sou um entusiasta da tecnologia em fase de aprendizado para me tornar um desenvo
 Aqui estão alguns dos meus projetos públicos no GitHub:
 
 <!-- PROJECTS_START -->
-- [Projeto 1](https://github.com/gegeu-sp/projeto-1)
-- [Projeto 2](https://github.com/gegeu-sp/projeto-2)
+- [BinDecConverter](https://github.com/Gegeu-sp/BinDecConverter)
+- [gegeu-sp](https://github.com/Gegeu-sp/gegeu-sp)
 <!-- PROJECTS_END -->
 
 ---
