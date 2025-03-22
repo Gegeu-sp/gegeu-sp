@@ -5,7 +5,7 @@ on:
     - cron: "0 0 * * *" # Executa todos os dias à meia-noite
   workflow_dispatch:
 
- permissions:
+permissions:
   contents: write # Garante que o token tenha permissão para escrever no repositório
 
 jobs:
