@@ -1,0 +1,47 @@
+name: Update Stats and Projects
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Executa todos os dias à meia-noite
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      # Passo 1: Checkout do repositório
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Passo 2: Contar commits no ano
+      - name: Count Commits
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "COUNT_COMMITS=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+            "https://api.github.com/search/commits?q=author:gegeu-sp+committer-date:$(date +%Y)-01-01T00:00:00Z..$(date +%Y)-12-31T23:59:59Z" | jq '.total_count')" >> $GITHUB_ENV
+
+      # Passo 3: Listar repositórios públicos
+      - name: Fetch Public Repositories
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          REPOS=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+            "https://api.github.com/users/gegeu-sp/repos" | jq -r '.[] | select(.fork == false) | "- [\(.name)](\(.html_url))"')
+          echo "REPOSITORIES_LIST=$(echo "$REPOS" | paste -sd '\n' -)" >> $GITHUB_ENV
+
+      # Passo 4: Atualizar README.md
+      - name: Update README
+        run: |
+          sed -i "s/Commits-[0-9]*/Commits-${{ env.COUNT_COMMITS }}/g" README.md
+          sed -i "/<!-- PROJECTS_START -->/,/<!-- PROJECTS_END -->/{//!d}" README.md
+          echo "${{ env.REPOSITORIES_LIST }}" | sed -i "/<!-- PROJECTS_START -->/r /dev/stdin" README.md
+
+      # Passo 5: Commit das mudanças
+      - name: Commit Changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Update commit stats and projects list" || echo "No changes to commit"
+          git push
