@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Gegeu!
+# 👋 Olá, eu sou o Argeu!
 
 Sou um entusiasta da tecnologia em fase de aprendizado para me tornar um desenvolvedor de sistemas. Este repositório é um espaço onde compartilho meu progresso, metas e algumas estatísticas interessantes sobre meu trabalho no GitHub.
 
@@ -6,7 +6,7 @@ Sou um entusiasta da tecnologia em fase de aprendizado para me tornar um desenvo
 
 ## 📊 Minhas Estatísticas no GitHub
 
-- **Commits no Ano Atual**: ![Commits](https://img.shields.io/badge/Commits-9-blue) *(automatizado)*
+- **Commits no Ano Atual**: ![Commits](https://img.shields.io/badge/Commits-9-blue)
 - **Repositórios Públicos**: ![Repos](https://img.shields.io/badge/Repos-2-green)
 - **Linguagens Favoritas**: JavaScript, Python, HTML/CSS
 
