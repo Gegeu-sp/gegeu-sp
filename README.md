@@ -6,7 +6,7 @@ Sou um entusiasta da tecnologia em fase de aprendizado para me tornar um desenvo
 
 ## 📊 Minhas Estatísticas no GitHub
 
-- **Commits no Ano Atual**: ![Commits](https://img.shields.io/badge/Commits-9-blue)
+- **Commits no Ano Atual**: ![Commits](https://img.shields.io/badge/Commits-11-blue)
 - **Repositórios Públicos**: ![Repos](https://img.shields.io/badge/Repos-2-green)
 - **Linguagens Favoritas**: JavaScript, Python, HTML/CSS
 
