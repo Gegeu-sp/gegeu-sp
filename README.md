@@ -59,5 +59,5 @@ Se você gostou do meu trabalho ou achou algo útil, considere dar uma ⭐ ao re
 Se quiser entrar em contato comigo, pode me encontrar nas seguintes plataformas:
 
 - **GitHub**: [@Gegeu-sp](https://github.com/Gegeu-sp)
-- **LinkedIn**: [linkedin.com/in/argeu-rodrigues-9a6b7174/]
+- **LinkedIn**: [https://www.linkedin.com/in/argeu-rodrigues-9a6b7174/]
 - **E-mail**: [argeurodrigues25hgmail.com]
