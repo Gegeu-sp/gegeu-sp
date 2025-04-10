@@ -7,8 +7,10 @@ Sou um entusiasta da tecnologia em fase de aprendizado para me tornar um desenvo
 ## 📊 Minhas Estatísticas no GitHub
 
 - **Commits no Ano Atual**: ![Commits](https://img.shields.io/badge/Commits-11-blue)
-- **Repositórios Públicos**: ![Repos](https://img.shields.io/badge/Repos-2-green)
+- **Repositórios Públicos**: ![Repos](https://img.shields.io/badge/Repos-3-green) *(Atualizado com TrainerPRO)*
 - **Linguagens Favoritas**: JavaScript, Python, HTML/CSS
+
+> 💡 *Estou sempre buscando aprender novas linguagens e frameworks para expandir minhas habilidades.*
 
 ---
 
@@ -17,12 +19,45 @@ Sou um entusiasta da tecnologia em fase de aprendizado para me tornar um desenvo
 Aqui estão alguns dos meus projetos públicos no GitHub:
 
 <!-- PROJECTS_START -->
-- [BinDecConverter](https://github.com/Gegeu-sp/BinDecConverter)
-- [gegeu-sp](https://github.com/Gegeu-sp/gegeu-sp)
+- [**BinDecConverter**](https://github.com/Gegeu-sp/BinDecConverter): Uma ferramenta simples para conversão entre números binários e decimais.
+- [**TrainerPRO**](https://github.com/Gegeu-sp/TrainerPRO): Um aplicativo voltado para treinamento e acompanhamento de rotinas de exercícios físicos.
+- [**gegeu-sp**](https://github.com/Gegeu-sp/gegeu-sp): Meu repositório pessoal, onde compartilho meu perfil e progresso no GitHub.
 <!-- PROJECTS_END -->
+
+> 🔍 *Clique nos links acima para saber mais sobre cada projeto!*
 
 ---
 
 ## 🤝 Como Contribuir
 
-Se você gostaria de contribuir para este repositório ou tiver sugestões para melhorá-lo, fique à vontade para abrir uma issue ou enviar um pull request!
+Se você gostaria de contribuir para este repositório ou tiver sugestões para melhorá-lo, fique à vontade para abrir uma **issue** ou enviar um **pull request**!
+
+---
+
+## 📈 Progresso e Metas
+
+### Metas de Aprendizado:
+- [x] Aprender os fundamentos de Git e GitHub.
+- [ ] Dominar JavaScript e suas bibliotecas/frameworks (ex.: React).
+- [ ] Desenvolver um projeto completo usando Python (ex.: Django/Flask).
+- [ ] Criar uma aplicação web responsiva com HTML, CSS e JavaScript.
+
+### Progresso Recente:
+- Adicionei o projeto **TrainerPRO**, uma aplicação para ajudar pessoas a gerenciar suas rotinas de exercícios físicos.
+- Atualizei este `README.md` para refletir melhor meu perfil e projetos.
+
+---
+
+## 🌟 Reconhecimento
+
+Se você gostou do meu trabalho ou achou algo útil, considere dar uma ⭐ ao repositório! Isso me motiva a continuar compartilhando conhecimento e melhorando minhas habilidades.
+
+---
+
+## 📧 Contato
+
+Se quiser entrar em contato comigo, pode me encontrar nas seguintes plataformas:
+
+- **GitHub**: [@Gegeu-sp](https://github.com/Gegeu-sp)
+- **LinkedIn**: [linkedin.com/in/argeu-rodrigues-9a6b7174/]
+- **E-mail**: [argeurodrigues25hgmail.com]
