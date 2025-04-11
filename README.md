@@ -6,8 +6,8 @@ Sou um entusiasta da tecnologia em fase de aprendizado para me tornar um desenvo
 
 ## 📊 Minhas Estatísticas no GitHub
 
-- **Commits no Ano Atual**: ![Commits](https://img.shields.io/badge/Commits-11-blue)
-- **Repositórios Públicos**: ![Repos](https://img.shields.io/badge/Repos-3-green) *(Atualizado com TrainerPRO)*
+- **Commits no Ano Atual**: ![Commits](https://img.shields.io/badge/Commits-13-blue)
+- **Repositórios Públicos**: ![Repos](https://img.shields.io/badge/Repos-2-green) *(Atualizado com TrainerPRO)*
 - **Linguagens Favoritas**: JavaScript, Python, HTML/CSS
 
 > 💡 *Estou sempre buscando aprender novas linguagens e frameworks para expandir minhas habilidades.*
@@ -19,9 +19,8 @@ Sou um entusiasta da tecnologia em fase de aprendizado para me tornar um desenvo
 Aqui estão alguns dos meus projetos públicos no GitHub:
 
 <!-- PROJECTS_START -->
-- [**BinDecConverter**](https://github.com/Gegeu-sp/BinDecConverter): Uma ferramenta simples para conversão entre números binários e decimais.
-- [**TrainerPRO**](https://github.com/Gegeu-sp/TrainerPRO): Um aplicativo voltado para treinamento e acompanhamento de rotinas de exercícios físicos.
-- [**gegeu-sp**](https://github.com/Gegeu-sp/gegeu-sp): Meu repositório pessoal, onde compartilho meu perfil e progresso no GitHub.
+- [BinDecConverter](https://github.com/Gegeu-sp/BinDecConverter)
+- [gegeu-sp](https://github.com/Gegeu-sp/gegeu-sp)
 <!-- PROJECTS_END -->
 
 > 🔍 *Clique nos links acima para saber mais sobre cada projeto!*
