@@ -59,4 +59,4 @@ Se quiser entrar em contato comigo, pode me encontrar nas seguintes plataformas:
 
 - **GitHub**: [@Gegeu-sp](https://github.com/Gegeu-sp)
 - **LinkedIn**: [https://www.linkedin.com/in/argeu-rodrigues-9a6b7174/]
-- **E-mail**: [argeurodrigues25hgmail.com]
+- **E-mail**: [argeurodrigues25@gmail.com]
